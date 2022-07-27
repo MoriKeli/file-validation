@@ -26,4 +26,7 @@
 
 ![views](https://user-images.githubusercontent.com/78599959/181189870-2899a13c-4cd4-4159-b170-53f07d9503ea.png)
 
-#### 7. Don't forget to add {{form|crispy}} in your template.
+#### 7. Don't forget to add {{form|crispy}} in your template. Shown below is the template rendered.
+
+![html](https://user-images.githubusercontent.com/78599959/181201732-8087a0d8-b075-4c67-8739-1887815fe5ac.png)
+
